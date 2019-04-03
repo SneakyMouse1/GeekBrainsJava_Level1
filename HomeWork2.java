@@ -1,6 +1,6 @@
 /*
  *	Семён Смыслов
- *	задание ко 2 уроку
+ *	задание ко 2 уроку.
  */
 public class HomeWork2 {
     public static void main(String[] args) {
